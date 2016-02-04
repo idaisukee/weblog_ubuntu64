@@ -1,0 +1,300 @@
+article:
+  time: 2015 0923 2206
+  main: | https://ja.wikipedia.org/wiki/%E9%A7%85%E3%82%B3%E3%83%BC%E3%83%89 驛 code といふものがある．
+  range: 
+    - public
+  tag:
+    - memo
+    - 知識
+
+article:
+  time: 2015 0923 2241
+  main: | ダイソーの靜電氣を利用する附箋が使ひやすい．でこぼこした壁にもつけられる．
+  range: 
+    - public
+  tag:
+    - ダイソー
+    - 文具
+
+article:
+  time: 2015 0923 2312
+  main: | qiita と tag をつければ qiita に post される機能をつけたい．
+  range:
+    - public
+  tag:
+    - lifehack
+    - meta memo
+    - 記録
+    - todo
+
+article:
+  time: 2015 0923 2331
+  main: | gnucoreutils を install したい．mac と linux の `ls` の option の違ひを目の當たりにして，必要を實感した．
+  range: 
+    - public
+  tag:
+    - todo
+    - computer
+
+article:
+  time: 2015 0924 1039
+  main: | Evernote の料金を調べる．
+  range:
+    - public
+  tag:
+    - todo
+    - computer
+
+article:
+  time: 2015 0924 1253
+  main: | unit test のやり方を学ぶ。
+  range:
+    - public
+  tag:
+    - todo
+    - computer
+    - 知識
+
+article:
+  time: 2015 0924 1428
+  main: | Push という service がある。
+  range:
+    - public
+  tag:
+    - computer
+    - 知識
+
+article:
+  time: 2015 0924 1609
+  main: | git で、 `git` に `g` 、 `branch` に `b` 、`checkout` に `c` という alias を与えている。 `<new_branch>` を作るときの command は
+```
+$ g c -b <new_branch>
+```
+となる。これは次と等価である：
+```
+$ g b <new_branch>
+$ g c <new_branch>
+```
+なので、現行の方式よりも
+```
+$ g b -c <new_branch>
+```
+の方が直観に適う。
+  range:
+    - public
+  tag:
+    - computer
+    - git
+    
+
+article:
+  time: 2015 0924 2010
+  main: | Firefox では bookmark を json, html で export できる。 Chrome でもできるか？
+  range:
+    - public
+  tag:
+    - computer
+    - chrome
+
+article:
+  time: 2015 0924 2056
+  main: | Epaulette をなくした coat はどうすべきか。 Epaulette は買えるのか。ないまま着たらやはり変か。
+  range:
+    - public
+  tag:
+    - 服
+    - 疑問
+
+article:
+  time: 2015 0926 1907
+  main: | .emacs.d の gnupack branch が， mac でも使へるやうになつた．いよいよ fork すべきか．しかし fork のやり方を知らない．
+  range:
+    - public
+  tag:
+    - computer
+    - emacs
+
+article:
+  time: 2015 0924 2056
+  main: | ddskk での入力になにか tempo の惡さを感じる．三角を消してしまふと變換ができなくなつてしまひ，その状態を解除するための操作を明晰には把握してゐないことが原因と思はれる．
+  range:
+    - public
+  tag:
+    - computer
+    - skk
+
+article:
+  time: 2015 0926 2205
+  main: | 家の玄關電球が切れたので，新しいものを買はねばならぬ．電球の規格を調べると，買ひ換へに當たつて注意すべきは，口金の徑のみのやうだ．切れた電球を見ると，接續部分に「 E21 」とある．これが徑を表してゐるに違ひないと考へた． Vernier で徑を測定する手間を惜しんだわけだ．しかしヨドバシで探しても E21 の電球はなかつた．客に向けて電球の規格を説明する panel を見ても， E21 には觸れてゐない．果たして家で切れた電球の徑を測ると， 17 mm であつた．
+  range:
+    - public
+  tag:
+    - 電氣
+    - 生活
+
+article:
+  time: 2015 0926 2227
+  main: | いま，家の机で MBP を使つてこれを書いてゐる．「ごちそうさん」を見ながらである．Emacs を使つてである．
+自分でも驚くほど，快適である．長らく，家の机では快適には作業ができなかつたので，驚くのである．最近机の位置を動かしたのが要因と思はれる．机を動かすだけでかうも快適になるとは，驚きである．
+  range:
+    - public
+  tag:
+    - 生活
+    - 隨想
+
+article:
+  time: 2015 0926 2231
+  main: | いま Emacs の modeline に git の branch が表示されてゐる．これがいかなる設定によるものか不明である．不安になる．
+  range:
+    - public
+  tag:
+    - emacs
+    - computer
+
+article:
+  time: 2015 0926 2319
+  main: | eg が mac で使へない． Mac の perl のせゐか， git が新しすぎて eg と噛み合はないか． eg diff だけはないと不便である．
+  range:
+    - public
+  tag:
+    - git
+    - eg
+
+article:
+  time: 2015 0926 2330
+  main: | `git add -p` するとき， @ で挾まれた行の表示も自分で編輯せねばならないことを知つた．數の計算は人間より computer の方が得意なのだから， computer がやつてくれないだらうか．
+  range:
+    - public
+  tag:
+    - git
+
+article:
+  time: 2015 0926 2351
+  main: | X40 の運用に意外とお金がかかつてゐる．1臺あたり 10 k 圓はかかつてゐる．これならば 50 k 圓程度の最近の machine を使ふのも考へねばならぬ
+  range:
+    - public
+  tag:
+    - x40
+
+article:
+  time: 2015 0927 2218
+  main: | 電話なしで生きる方法が知りたい．聽覺障碍者に向けた生活の案内から hint を拾へないか．
+  range:
+    - public
+  tag:
+    - 生活
+
+article:
+  time: 2015 0930 0139
+  main: | 眠い．
+  range:
+    - public
+  tag:
+    - 雜記
+
+article:
+  time: 2015 1001 0052
+  main: | 理系の高學歴者には，初等數學の公理系が自分の感覺によく合致してゐるから數學や物理で貼が稼げて難關校に入學できた者が少なくない．彼らは頭が良いが，考へる力は低い．
+  range:
+    - public
+  tag:
+    - 隨想
+
+article:
+  time: 2015 1001 0056
+  main: | markdown 文書を共有したくなった．ある仕事を指揮することになり，そのため，他の人に情報を共有する必要が生じた．私は markdown を愛用してゐるから，今囘も markdown を使ひたいと思つたのである．
+
+ここで，前提條件を記しておきたい．以下のとほりである：
+
+- 仕事に攜はるのは， 5 人程度である．
+- 全員， google の account を持つてゐる．
+- 共有したい文書は， 5 files 程度である．
+- 共有したい文書は，非公開のものである．
+- 仕事に攜はる人のうち， programmer は私のみである．
+
+このための tool を探した．まづ， google drive で達成できないか調べた． Google drive に Stackedit といふ plugin がある．これを入れれば， google drive 上で markdown 文書を閲覽 (きれいに裝飾された状態で) ・編輯できる．しかし，携る者全員が plugin を入れないとこの效果が發現しないとわかつた．
+
+次に， Github を檢討した．お金を拂へば repository を非公開にできる． Markdown 文書をきれいに裝飾された状態で閲覽できる．しかし，今囘の人員は，私以外 programmer でないため， github の account も持つてゐない．新たな web service への登録を求めるのは氣がひける上，説明・ support の cost もかかるので，やめておいた．
+
+Markdown Share といふ service もある．しかし，これは文書を非公開にできない．
+
+以上の結果を踏まへて， Markdown 文書による情報共有は今囘は諦め， PDF を採用した．
+  range:
+    - public
+  tag:
+    - computer
+    - markdown
+    - pdf
+    - google drive
+
+article:
+  time: 2015 1010 1501
+  main: | `.vimrc` に
+```
+nnoremap d h
+```
+と書いてみた．企圖は， d で左に移動することである．成功しなかつた．
+  range:
+    - public
+  tag:
+    - vi
+    - computer
+
+
+article:
+  time: 2015 1010 1503
+  main: | 私は shell で `C-r` を `delete-char-or-list` に割り當ててゐる．しかし， ri のなかではこの bind が反映されない．どうすれば良いのか．
+
+  range:
+    - public
+  tag:
+    - computer
+    - key bind
+
+article:
+  time: 2015 1010 1805
+  main: | Computer は美しい．この美しさは大部分 fonts のおかげである． Fonts を作り頒布してゐる人たちにはいくら感謝しても足りない．感謝しつつ，自分も， fonts と字の知識を深めたい．
+  range:
+    - public
+  tag:
+    - computer
+    - font
+
+article:
+  time: 2015 1010 1826
+  main: | 私が初めて php を書いたのは今年の 4 月である．はじめ抵抗を感じたのは， php.ini である．言語の擧動を設定 file で決めるといふのは初めて經驗したからだ．しかしいまは，そんなに忌避するものでもないと思へる．やり方はいろいろあつていいはづだし，自分が初めて見るからといつてそれを否定するのは惡いことである．
+  range:
+    - public
+  tag:
+    - computer
+    - php
+
+article:
+  time: 2015 1010 1835
+  main: | sakura で使用する font を， inconsolata から Migu に換へた．目的は，日本語の表示を美しくすることである．實際，美しくなつた．ふらふらするほどである．殊に nano が美しくなつた．
+  range:
+    - public
+  tag:
+    - computer
+    - fonts
+
+article:
+  time: 2015 1010 1840
+  main: | 今日， X40b に opera が入つてゐるのに偶然氣がついて，使ひ始めた．驚くほど輕い．課題は，
+  - いま chrome に大量に貯めてゐる bookmark をどうするか． Export, import するか，それとも bookmark を cloud に置けるやうな service を使ふか．
+  - chrome に記憶させてある password をどうするか．これも，對處の候補は同じである．
+  range:
+    - public
+  tag:
+    - computer
+    - chrome
+    - opera
+
+article:
+  time: 2015 1010 1847
+  main: | 横濱市歌の「果てなく榮えてゆくらむ御代を 飾る寶も入り來る港」は，册封的世界觀と言へるか．
+  range:
+    - public
+  tag:
+    - 儒教
+    - 横濱市歌

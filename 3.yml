@@ -1,0 +1,15 @@
+- article:
+    time: 2015 0926 2330
+    main: |-
+      `git add -p` するとき， @ で挾まれた行の表示も自分で編輯せねばならないことを知つた．數の計算は人間より computer の方が得意なのだから， computer がやつてくれないだらうか．
+    range:
+      - public
+    tag:
+- article:
+    time: 2015 1015 2102
+    main: | 
+
+    range:
+      - public
+    tag:
+    
